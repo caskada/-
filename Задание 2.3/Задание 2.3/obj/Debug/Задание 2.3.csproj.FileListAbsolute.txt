@@ -1,0 +1,7 @@
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\bin\Debug\Задание 2.3.exe.config
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\bin\Debug\Задание 2.3.exe
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\bin\Debug\Задание 2.3.pdb
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\obj\Debug\Задание 2.3.csprojAssemblyReference.cache
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\obj\Debug\Задание 2.3.csproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\obj\Debug\Задание 2.3.exe
+C:\Users\terra\source\repos\Задание 2.3\Задание 2.3\obj\Debug\Задание 2.3.pdb
